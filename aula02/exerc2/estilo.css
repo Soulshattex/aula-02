@@ -1,0 +1,40 @@
+body {
+background-color:antiquewhite;
+text-align:center;
+}
+
+h1 {
+background-color:darkslategrey;
+text-align:left;
+color:white;
+
+}
+
+img {
+align-items: center;
+width: 95%;
+height: 35%;
+margin-top: 12px;
+}
+
+figure {
+border:1px solid gray;
+margin-left: 700px;
+margin-right: 700px;
+margin-bottom: 50px;
+background-color: white;
+
+}
+
+footer {
+background-color:cadetblue;
+color: white;
+}
+
+#navbar h1 {
+padding: 30px;
+}
+
+#navend {
+padding: 30px;
+}
